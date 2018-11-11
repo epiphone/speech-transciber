@@ -79,7 +79,44 @@ gcloud ml speech recognize --language-code en-US  --include-word-time-offsets --
 }
 ```
 
-### Long clip of conversational material, Korean-speaking
+### Short conversational, Korean and English
+
+```bash
+ffmpeg -i ./material/A7R3-001-194.mov -ss 00:00:10 -t 00:00:15 -async 1 -ac 1 -vn audio-194-2-kr-short.flac
+gcloud alpha ml speech recognize --language-code ko-KR --additional-language-codes en-US --include-word-time-offsets --sample-rate 32000 ./audio-194-2-kr-short.flac
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7913317,
+          "transcript": "\uc544\uc6b0 \ub108\ubb34 \uc798\ud588\uc5b4",
+          "words": [
+            {
+              "endTime": "2.600s",
+              "startTime": "0s",
+              "word": "\uc544\uc6b0"
+            },
+            {
+              "endTime": "2.800s",
+              "startTime": "2.600s",
+              "word": "\ub108\ubb34"
+            },
+            {
+              "endTime": "3.100s",
+              "startTime": "2.800s",
+              "word": "\uc798\ud588\uc5b4"
+            }
+          ]
+        }
+      ],
+      "languageCode": "ko-kr"
+    }
+  ]
+}
+```
+
+### Long clip of conversational material, Korean
 
 ```
 gcloud ml speech recognize-long-running --language-code ko-KR  --include-word-time-offsets --max-alternatives=0 gs://"transcriber-material/audio-194-2-mono-long-running.flac" --async

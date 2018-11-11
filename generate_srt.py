@@ -19,7 +19,8 @@ def main():
                 for w in res['alternatives'][0]['words']:
                     out_f.write(str(i) + '\n')
                     out_f.write(seconds_str_to_srt_time(w['startTime']) + ' --> ' + seconds_str_to_srt_time(w['endTime']) + '\n')
-                    out_f.write(w['word'] + '\n\n')
+                    print('writing', w['word'].encode('UTF-8') + '\n\n')
+                    out_f.write(w['word'].encode('UTF-8') + '\n\n')
                     i += 1
 
 
