@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82896113,
+          "transcript": "hey let's go inside.",
+          "words": [
+            {
+              "endTime": "6.400s",
+              "startTime": "5.900s",
+              "word": "hey"
+            },
+            {
+              "endTime": "7.800s",
+              "startTime": "6.400s",
+              "word": "let's"
+            },
+            {
+              "endTime": "7.800s",
+              "startTime": "7.800s",
+              "word": "go"
+            },
+            {
+              "endTime": "9.100s",
+              "startTime": "7.800s",
+              "word": "inside."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.53151643,
+          "transcript": " Sew-in side part closure",
+          "words": [
+            {
+              "endTime": "25.400s",
+              "startTime": "24.800s",
+              "word": "Sew-in"
+            },
+            {
+              "endTime": "25.600s",
+              "startTime": "25.400s",
+              "word": "side"
+            },
+            {
+              "endTime": "25.700s",
+              "startTime": "25.600s",
+              "word": "part"
+            },
+            {
+              "endTime": "26.100s",
+              "startTime": "25.700s",
+              "word": "closure"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

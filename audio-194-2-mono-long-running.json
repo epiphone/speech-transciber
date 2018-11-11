@@ -1,0 +1,470 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6447958,
+          "transcript": "\ub108\ubb34 \uc798\ud588\uc5b4 \uc798\ud588\uc5b4 \uc0ac\ub78c\ub4e4 \ub9ce\uc774 \uac10\ub3d9 \uc788\uc5b4\uc694 \uc544 \uc9c4\uc9dc \uadf8\ub7f0 \uac70 \ubcf4\uc5ec \uc8fc\uc138\uc694",
+          "words": [
+            {
+              "endTime": "2.800s",
+              "startTime": "0s",
+              "word": "\ub108\ubb34"
+            },
+            {
+              "endTime": "3s",
+              "startTime": "2.800s",
+              "word": "\uc798\ud588\uc5b4"
+            },
+            {
+              "endTime": "17.400s",
+              "startTime": "3s",
+              "word": "\uc798\ud588\uc5b4"
+            },
+            {
+              "endTime": "21.200s",
+              "startTime": "17.400s",
+              "word": "\uc0ac\ub78c\ub4e4"
+            },
+            {
+              "endTime": "21.400s",
+              "startTime": "21.200s",
+              "word": "\ub9ce\uc774"
+            },
+            {
+              "endTime": "22.500s",
+              "startTime": "21.400s",
+              "word": "\uac10\ub3d9"
+            },
+            {
+              "endTime": "22.900s",
+              "startTime": "22.500s",
+              "word": "\uc788\uc5b4\uc694"
+            },
+            {
+              "endTime": "26.800s",
+              "startTime": "22.900s",
+              "word": "\uc544"
+            },
+            {
+              "endTime": "27.200s",
+              "startTime": "26.800s",
+              "word": "\uc9c4\uc9dc"
+            },
+            {
+              "endTime": "41.600s",
+              "startTime": "27.200s",
+              "word": "\uadf8\ub7f0"
+            },
+            {
+              "endTime": "41.800s",
+              "startTime": "41.600s",
+              "word": "\uac70"
+            },
+            {
+              "endTime": "55s",
+              "startTime": "41.800s",
+              "word": "\ubcf4\uc5ec"
+            },
+            {
+              "endTime": "55.100s",
+              "startTime": "55s",
+              "word": "\uc8fc\uc138\uc694"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.72113156,
+          "transcript": "\ub208\ubb3c\uc774 \ub098\uc624\uc9c0\ub9cc \ubb3c\uc5c8\uc5b4\uc694 5\uc6d4 \ub2ec\uc5d0 \uc788\uc796\uc544\uc694 \ub374\ub9c8\ud06c\uc5d0\uc11c \uc544\ub2c8 \ucc38\uc11d\ud560 \uc218 \uc788\ub098",
+          "words": [
+            {
+              "endTime": "62.700s",
+              "startTime": "59.900s",
+              "word": "\ub208\ubb3c\uc774"
+            },
+            {
+              "endTime": "63.200s",
+              "startTime": "62.700s",
+              "word": "\ub098\uc624\uc9c0\ub9cc"
+            },
+            {
+              "endTime": "65s",
+              "startTime": "63.200s",
+              "word": "\ubb3c\uc5c8\uc5b4\uc694"
+            },
+            {
+              "endTime": "73.700s",
+              "startTime": "65s",
+              "word": "5\uc6d4"
+            },
+            {
+              "endTime": "74s",
+              "startTime": "73.700s",
+              "word": "\ub2ec\uc5d0"
+            },
+            {
+              "endTime": "79.100s",
+              "startTime": "74s",
+              "word": "\uc788\uc796\uc544\uc694"
+            },
+            {
+              "endTime": "88.400s",
+              "startTime": "79.100s",
+              "word": "\ub374\ub9c8\ud06c\uc5d0\uc11c"
+            },
+            {
+              "endTime": "89.300s",
+              "startTime": "88.400s",
+              "word": "\uc544\ub2c8"
+            },
+            {
+              "endTime": "90s",
+              "startTime": "89.300s",
+              "word": "\ucc38\uc11d\ud560"
+            },
+            {
+              "endTime": "90.100s",
+              "startTime": "90s",
+              "word": "\uc218"
+            },
+            {
+              "endTime": "105.500s",
+              "startTime": "90.100s",
+              "word": "\uc788\ub098"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7869699,
+          "transcript": "\ub354 \uc911\uc694\ud55c \uc758\ubbf8\uac00 \uc788\uc5b4\uc694 \ucd5c\uc120\uc744 \ub2e4\ud558\ub294 \uac70 \ub534 \uac78\ub85c \ub9cc\uc871\ud574\ub77c \uadf8\ub0e5 \ub098\uc654\uc5b4\uc694 \uc528\ub3c4 \uc798 \ud558\uace0",
+          "words": [
+            {
+              "endTime": "134.800s",
+              "startTime": "119.900s",
+              "word": "\ub354"
+            },
+            {
+              "endTime": "135.200s",
+              "startTime": "134.800s",
+              "word": "\uc911\uc694\ud55c"
+            },
+            {
+              "endTime": "135.500s",
+              "startTime": "135.200s",
+              "word": "\uc758\ubbf8\uac00"
+            },
+            {
+              "endTime": "135.900s",
+              "startTime": "135.500s",
+              "word": "\uc788\uc5b4\uc694"
+            },
+            {
+              "endTime": "139.100s",
+              "startTime": "135.900s",
+              "word": "\ucd5c\uc120\uc744"
+            },
+            {
+              "endTime": "139.300s",
+              "startTime": "139.100s",
+              "word": "\ub2e4\ud558\ub294"
+            },
+            {
+              "endTime": "139.500s",
+              "startTime": "139.300s",
+              "word": "\uac70"
+            },
+            {
+              "endTime": "145.200s",
+              "startTime": "139.500s",
+              "word": "\ub534"
+            },
+            {
+              "endTime": "145.400s",
+              "startTime": "145.200s",
+              "word": "\uac78\ub85c"
+            },
+            {
+              "endTime": "146.300s",
+              "startTime": "145.400s",
+              "word": "\ub9cc\uc871\ud574\ub77c"
+            },
+            {
+              "endTime": "147s",
+              "startTime": "146.300s",
+              "word": "\uadf8\ub0e5"
+            },
+            {
+              "endTime": "152.100s",
+              "startTime": "147s",
+              "word": "\ub098\uc654\uc5b4\uc694"
+            },
+            {
+              "endTime": "165.800s",
+              "startTime": "152.100s",
+              "word": "\uc528\ub3c4"
+            },
+            {
+              "endTime": "166.100s",
+              "startTime": "165.800s",
+              "word": "\uc798"
+            },
+            {
+              "endTime": "166.400s",
+              "startTime": "166.100s",
+              "word": "\ud558\uace0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82117677,
+          "transcript": "\uc5b4\ub54c \uc788\uac70\ub4e0 \uadf8\ub7ec\ub2c8\uae4c",
+          "words": [
+            {
+              "endTime": "181.500s",
+              "startTime": "179.900s",
+              "word": "\uc5b4\ub54c"
+            },
+            {
+              "endTime": "207.800s",
+              "startTime": "181.500s",
+              "word": "\uc788\uac70\ub4e0"
+            },
+            {
+              "endTime": "208.600s",
+              "startTime": "207.800s",
+              "word": "\uadf8\ub7ec\ub2c8\uae4c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.3919578,
+          "transcript": "\uae30\ub300\ud569\ub2c8\ub2e4",
+          "words": [
+            {
+              "endTime": "236.200s",
+              "startTime": "235s",
+              "word": "\uae30\ub300\ud569\ub2c8\ub2e4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77582186,
+          "transcript": "\uc774\uc81c \uac00\uc11c \ud574 \uac00\uc9c0\uace0 \uc798\ud574\uc11c \uc5ed\uc0ac\uc0c1 \ucc98\uc74c\uc73c\ub85c \uc6b0\ub9ac \uac00\ub294 \uac70\uc608\uc694 \uadf8\uac8c \uc62c\ub9bc\ud53d \uc5ed\uc0ac\uc0c1 \uac10\uc0ac\ud569\ub2c8\ub2e4 \uc624\ub298\ub3c4 \uac74\uac15\ud558\uc2dc\uace0 \uc624\ub798\uc624\ub798 \uc0ac\uc138\uc694",
+          "words": [
+            {
+              "endTime": "289.200s",
+              "startTime": "288s",
+              "word": "\uc774\uc81c"
+            },
+            {
+              "endTime": "292.400s",
+              "startTime": "289.200s",
+              "word": "\uac00\uc11c"
+            },
+            {
+              "endTime": "297.500s",
+              "startTime": "292.400s",
+              "word": "\ud574"
+            },
+            {
+              "endTime": "297.800s",
+              "startTime": "297.500s",
+              "word": "\uac00\uc9c0\uace0"
+            },
+            {
+              "endTime": "298.600s",
+              "startTime": "297.800s",
+              "word": "\uc798\ud574\uc11c"
+            },
+            {
+              "endTime": "300.800s",
+              "startTime": "298.600s",
+              "word": "\uc5ed\uc0ac\uc0c1"
+            },
+            {
+              "endTime": "300.900s",
+              "startTime": "300.800s",
+              "word": "\ucc98\uc74c\uc73c\ub85c"
+            },
+            {
+              "endTime": "301.400s",
+              "startTime": "300.900s",
+              "word": "\uc6b0\ub9ac"
+            },
+            {
+              "endTime": "302.800s",
+              "startTime": "301.400s",
+              "word": "\uac00\ub294"
+            },
+            {
+              "endTime": "303s",
+              "startTime": "302.800s",
+              "word": "\uac70\uc608\uc694"
+            },
+            {
+              "endTime": "312.400s",
+              "startTime": "303s",
+              "word": "\uadf8\uac8c"
+            },
+            {
+              "endTime": "313.100s",
+              "startTime": "312.400s",
+              "word": "\uc62c\ub9bc\ud53d"
+            },
+            {
+              "endTime": "326.400s",
+              "startTime": "313.100s",
+              "word": "\uc5ed\uc0ac\uc0c1"
+            },
+            {
+              "endTime": "334.300s",
+              "startTime": "326.400s",
+              "word": "\uac10\uc0ac\ud569\ub2c8\ub2e4"
+            },
+            {
+              "endTime": "334.600s",
+              "startTime": "334.300s",
+              "word": "\uc624\ub298\ub3c4"
+            },
+            {
+              "endTime": "335.700s",
+              "startTime": "334.600s",
+              "word": "\uac74\uac15\ud558\uc2dc\uace0"
+            },
+            {
+              "endTime": "336.900s",
+              "startTime": "335.700s",
+              "word": "\uc624\ub798\uc624\ub798"
+            },
+            {
+              "endTime": "337.300s",
+              "startTime": "336.900s",
+              "word": "\uc0ac\uc138\uc694"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81900364,
+          "transcript": "\ubb50\uc57c \ub610 \uc810\uc2ec \uc800\ub141\uc744 \uba39\uc5b4\uc11c \uc790 \uadf8\ub798 \uc54c\uc558\uc5b4 \uc54c\uc558\uc5b4 \uc751 \uc544\uc774 \uc624\ubc84 \ud558\ub294 \uac70\uc9c0 \ub098\ub3c4 \ubab0\ub77c \ucc98\uc74c \ubd24\uc5b4",
+          "words": [
+            {
+              "endTime": "349.400s",
+              "startTime": "348s",
+              "word": "\ubb50\uc57c"
+            },
+            {
+              "endTime": "360.900s",
+              "startTime": "349.400s",
+              "word": "\ub610"
+            },
+            {
+              "endTime": "386.700s",
+              "startTime": "360.900s",
+              "word": "\uc810\uc2ec"
+            },
+            {
+              "endTime": "386.900s",
+              "startTime": "386.700s",
+              "word": "\uc800\ub141\uc744"
+            },
+            {
+              "endTime": "387.100s",
+              "startTime": "386.900s",
+              "word": "\uba39\uc5b4\uc11c"
+            },
+            {
+              "endTime": "387.300s",
+              "startTime": "387.100s",
+              "word": "\uc790"
+            },
+            {
+              "endTime": "392.900s",
+              "startTime": "387.300s",
+              "word": "\uadf8\ub798"
+            },
+            {
+              "endTime": "393.300s",
+              "startTime": "392.900s",
+              "word": "\uc54c\uc558\uc5b4"
+            },
+            {
+              "endTime": "396.300s",
+              "startTime": "393.300s",
+              "word": "\uc54c\uc558\uc5b4"
+            },
+            {
+              "endTime": "400.600s",
+              "startTime": "396.300s",
+              "word": "\uc751"
+            },
+            {
+              "endTime": "403.200s",
+              "startTime": "400.600s",
+              "word": "\uc544\uc774"
+            },
+            {
+              "endTime": "403.500s",
+              "startTime": "403.200s",
+              "word": "\uc624\ubc84"
+            },
+            {
+              "endTime": "403.700s",
+              "startTime": "403.500s",
+              "word": "\ud558\ub294"
+            },
+            {
+              "endTime": "404s",
+              "startTime": "403.700s",
+              "word": "\uac70\uc9c0"
+            },
+            {
+              "endTime": "404.300s",
+              "startTime": "404s",
+              "word": "\ub098\ub3c4"
+            },
+            {
+              "endTime": "404.700s",
+              "startTime": "404.300s",
+              "word": "\ubab0\ub77c"
+            },
+            {
+              "endTime": "405.100s",
+              "startTime": "404.700s",
+              "word": "\ucc98\uc74c"
+            },
+            {
+              "endTime": "405.400s",
+              "startTime": "405.100s",
+              "word": "\ubd24\uc5b4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
